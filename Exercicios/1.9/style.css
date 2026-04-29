@@ -1,0 +1,39 @@
+.Caixa1{
+
+    height: 200px;
+    width: 200px;
+    background-color: gold;
+    padding: 20px;
+    border: 20px solid black;
+    
+
+
+}
+
+.Caixa2{
+
+    height: 200px;
+    width: 200px;
+    background-color:cadetblue;
+    padding: 20px;
+    border-top: 20px;
+    bottom:10px;
+    border-left: 20px;
+    border-right: 20px;
+    border: 20px solid black;
+    margin-left: 259px;
+
+}
+
+.Caixa3{
+
+    height: 200px;
+    width: 200px;
+    background-color:indianred;
+    padding: 20px;
+    border: 20px solid black;
+
+   
+    
+
+}

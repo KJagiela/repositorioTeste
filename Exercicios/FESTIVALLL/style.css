@@ -43,3 +43,9 @@ footer{
     position: relative;
 }
 
+.horario-alert{
+    font-weight: bold;
+    border-left: 4px solid orange;
+    padding: 20px 10px;
+}
+

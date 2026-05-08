@@ -1,0 +1,45 @@
+.card img{
+    height: 200px;
+    object-fit: cover;
+}
+
+footer{
+
+    background-color: black;
+    color:white;
+}
+
+.texto{
+
+    margin: 20px;
+}
+
+.texto1{
+
+    margin: 20px;
+}
+
+.texto2{
+    margin: 20px;
+}
+
+.imagem{
+    margin: 20px;
+}
+
+.banner{
+    height: 100vh;
+
+    background-image: url('./esse.png');
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   
+    position: relative;
+}
+

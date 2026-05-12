@@ -1,5 +1,5 @@
 .card img{
-    height: 200px;
+    height: 400px;
     object-fit: cover;
 }
 
@@ -24,7 +24,7 @@ footer{
 }
 
 .imagem{
-    margin: 20px;
+    margin: 40px;
 }
 
 .banner{

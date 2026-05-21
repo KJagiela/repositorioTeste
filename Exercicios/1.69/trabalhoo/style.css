@@ -1,0 +1,30 @@
+.banner{
+    height: 100vh;
+
+    background-image: url('./assets/azuuul.jpg');
+    margin:20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   
+    position: relative;
+}
+.text2{
+    color: black;
+}
+.text1{
+    color: black;
+}
+
+body{
+    background-color: rgb(168, 223, 245);
+}
+.card img{
+    height: 400px;
+    object-fit: cover;
+}
+
